@@ -52,7 +52,7 @@ export default function About () {
                     <Button href={'https://github.com/FerreyraLautaro'} target='_blank'>
                       <GitHubIcon/>
                     </Button>      
-                    <Button href={'https://www.linkedin.com/in/lautaro-ferreyra-6713201ba/'} target='_blank'>
+                    <Button href={'https://www.linkedin.com/in/lautarof-developer/'} target='_blank'>
                       <LinkedInIcon/>
                     </Button>    
                     <Button href={'https://wa.me/+543513348627'} target='_blank'>
